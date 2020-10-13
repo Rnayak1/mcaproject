@@ -1,7 +1,7 @@
 calchoice <-0
 ################################# MOdule 2 functions ###############################################
 
-# Corelation calculation
+# Corelation calculation function
 correlation <- function()
 {
   prompt1 <- "Enter the data for X : "
